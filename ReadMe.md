@@ -81,7 +81,7 @@ tool.mergeImage_withCoord()
 
 **有坐标** : 该方法不需要考虑原图大小，因为图片本身带有坐标
 
-![图片描述](D:\语义分割空壳\image\重叠.png)
+![图片描述](.\image\重叠.png)
 
 - 无重叠的方式
 
@@ -89,7 +89,7 @@ tool.mergeImage_withCoord()
 
 ​	有坐标：略
 
-![图片描述](D:\语义分割空壳\image\预测结果.jpg)
+![图片描述](.\image\预测结果.jpg)
 
 总结：摸索摸索应该都能整明白，如果实在不懂欢迎找我讨论
 邮箱：caihongchao0220@163.com
